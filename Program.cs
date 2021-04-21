@@ -55,6 +55,17 @@ namespace PracticLinq
             {
                 Console.WriteLine(game);
             }
+
+            Console.WriteLine(" ");
+            Console.WriteLine("OrderBy Aplha practice");
+            Console.WriteLine(" ");
+
+            var gamesApha = games.OrderBy(x => x);
+            foreach(var game in gamesApha)
+            {
+                Console.WriteLine(game);
+            }
+
         }
         
     }
