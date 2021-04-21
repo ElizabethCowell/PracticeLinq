@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.exe
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.deps.json
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.runtimeconfig.json
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.runtimeconfig.dev.json
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.dll
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\ref\PracticLinq.dll
+C:\Users\eholy\repos\PracticLinq\bin\Debug\net5.0\PracticLinq.pdb
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.csprojAssemblyReference.cache
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.AssemblyInfo.cs
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.dll
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\ref\PracticLinq.dll
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.pdb
+C:\Users\eholy\repos\PracticLinq\obj\Debug\net5.0\PracticLinq.genruntimeconfig.cache
