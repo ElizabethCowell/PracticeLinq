@@ -41,7 +41,7 @@ namespace PracticLinq
             Console.WriteLine("Take & Append practice");
             Console.WriteLine(" ");
 
-            var gamesUpdate = games.Take(3).Append("Rampage");
+            var gamesUpdate = games.Take(3).Append("Rampage").ToList();
             foreach (var game in gamesUpdate)
             {
                 Console.WriteLine(game);
